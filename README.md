@@ -37,7 +37,7 @@ Hello there! I'm Lorenzo Ocampo, a fresh graduate in Computer Science from the U
 
 ## Internships and Work Experience
 - **Azeus Systems Limited** - Intern (July 2022 - September 2022)
-  - As a software engineer, I played a pivotal role in a project that involved creating and connecting APIs, designing a website, establishing a database, and developing Odata APIs. I successfully implemented Odata APIs, enhancing data manipulation and retrieval. My responsibilities showcased my skills in API development, web design, and database management. This experience strengthened my proficiency in the full software development lifecycle and working with cutting-edge technologies such as Azure, Springboot, and VueJS.
+  - As a software developer, I played a pivotal role in a project that involved creating and connecting APIs, designing a website, establishing a database, and developing Odata APIs. I successfully implemented Odata APIs, enhancing data manipulation and retrieval. My responsibilities showcased my skills in API development, web design, and database management. This experience strengthened my proficiency in the full software development lifecycle and working with cutting-edge technologies such as Azure, Springboot, and VueJS.
 
 ## Achievements and Certifications
 - DOST Scholar
