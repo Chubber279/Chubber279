@@ -42,7 +42,7 @@ Hello there! I'm Lorenzo Ocampo, a fresh graduate in Computer Science from the U
 ## Achievements and Certifications
 - DOST Scholar
 - Phi Kappa Phi Nominee
-- Best SP Nominee
+- IURS2023 Best SP Computer Science Division
 
 ## Interests
 - My specific areas of interest and specialization within computer science include software engineering, machine learning, artificial intelligence, financial technology, and data science. 
